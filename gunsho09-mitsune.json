@@ -1,10 +1,15 @@
 {
- "work": "躬恒集",
+ "work": "躬恒集（群書類従本）",
  "work_id": "gunsho09-mitsune",
  "repo": "kumoi-no-fumigura/mitsune",
  "yomi": "みつねしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "凡河内躬恒",
+  "desc": "『古今和歌集』撰者の一人、凡河内躬恒の家集。延喜3年（903）の勅命の歌や、延喜5年の賀の屏風歌など、屏風歌を多く収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -4847,6 +4852,6 @@
   "poems": 430,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
